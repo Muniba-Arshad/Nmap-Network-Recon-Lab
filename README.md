@@ -1,21 +1,21 @@
 # Nmap-Network-Recon-Lab
-##Project title
-##Nmap Network Reconnaissance Lab
 
-##Purpose
-By using Nmap we practice accessing authorized local systems/ basic reconnaissance on network, port discovery , service detection and host detection.
+## Project Title
+Nmap Network Reconnaissance Lab
 
-##Tools
-Nmap
-Zenmap
-Windows
+## Purpose
+Using Nmap, I practiced authorized local network reconnaissance, host discovery, port scanning, service detection, and basic network enumeration.
 
-##Skills Practiced
-Port Scanning
-Service/version detection
-Specific port scanning
-Host discovery
-Basic network enumeration
+## Tools
+- Nmap
+- Zenmap
+- Windows
 
-##Security note
-Scans were performed only against systems/networks authorized for testing.
+## Skills Practiced
+- Host discovery
+- Port scanning
+- Service/version detection
+- Basic network enumeration
+
+## Security Note
+All scans were performed only against systems/networks authorized for testing.
